@@ -15,7 +15,7 @@ We will take a look at your assignment as soon as possible.
 
 
 ###### 👀 Here by accident or simply being curious?
-###### Check [Workable's career page](https://apply.workable.com/careers/) and find out more!
+###### Check [Workable's careers page](https://apply.workable.com/careers/) and find out more!
 <!--
 **workable-assignments/workable-assignments** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
